@@ -1,3 +1,4 @@
+<img width="560" height="860" alt="diagram" src="https://github.com/user-attachments/assets/4a7cad40-ba6c-4edc-b7f6-9830b137b1da" />
 # Terminal_Graphing
 
 Creates rough graph of basic functions in terminal. 
