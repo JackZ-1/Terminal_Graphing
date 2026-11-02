@@ -32,7 +32,7 @@ cd your-project
 ## Usage
 
 ```bash
-*Creates linear graph
+#Creates linear graph
 ./graph <file_linear>
 ```
 
