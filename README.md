@@ -10,7 +10,7 @@ It's often inconvenient to switch between programs while working. Imagine you ne
 
 This program takes a file containing a list of x and y and creates a graph from it. It does this by using awk to modify an empty text-based graph to show the datapoints. Awk is used again to create the graphical graph, and the result is printed to the terminal. 
 
-![System diagram](./images/diagram.png)
+![System diagram](images/diagram.png)
 
 ## Tech Stack
 
