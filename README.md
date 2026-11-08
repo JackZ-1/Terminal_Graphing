@@ -47,7 +47,7 @@ cd your-project
 
 - [ ] Allow creation of graph from function
 - [ ] Ability to scale graph to differnt size
-![Eisenhower Matrix](images/Eisenhower_Matrix.pdf)
+![Eisenhower Matrix](images/Eisenhower_Matrix.png)
 
 ## Author
 
